@@ -46,6 +46,8 @@ Table of contents:
 * [akveo/blur-admin](https://github.com/akveo/blur-admin) - Free premium Angular 1.x Bootsrap Admin dashboard
 * [gusgard/angular-seed-es6](https://github.com/gusgard/angular-seed-es6) - AngularJS 1.5 starter repo using best practices + ES6 + SASS + Browserify + BrowserSync.
 * [simskij/angular-seed](https://github.com/simskij/angular-seed) AngularJS 1.5 Seed + Premade Gulp scripts and project directory layout.
+* [deleidos/de-visualization-angular-sdk](https://github.com/deleidos/de-visualization-angular-sdk) AngularJS Seed + project directory layout + grunt including dockerIO script.
+* [deleidos/de-visualization-angular-sdk-example](https://github.com/deleidos/de-visualization-angular-sdk-example) AngularJS Seed + project directory layout + grunt including dockerIO script + bootstrap graph dependency.
 
 
 ## User Manager
